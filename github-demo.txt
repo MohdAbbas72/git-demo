@@ -1,0 +1,2 @@
+hi all,i am creating a text file in github and push to git
+Thank u
